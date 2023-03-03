@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pitch.xslt"?>
+<pitch> 
+ <page>
+	      <title>pre</title>
+	      <name>pepper.xml</name>
+   </page>
+	<page>
+	      <title>next</title>
+	      <name>pos.xml</name>
+   </page>
+</pitch>

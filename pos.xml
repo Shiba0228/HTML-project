@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pos.xslt"?>
+<pos> 
+  <page>
+	      <title>pre</title>
+	      <name>pitch.xml</name>
+   </page>
+	<page>
+	      <title>next</title>
+	      <name>index.xml</name>
+   </page>  
+  
+</pos>
